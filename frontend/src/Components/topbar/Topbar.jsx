@@ -71,7 +71,6 @@ export default function Topbar() {
             </ul>
           </>
         )}
-        <i className="topSearchIcon fa fa-search"></i>
       </div>
     </div>
   );
